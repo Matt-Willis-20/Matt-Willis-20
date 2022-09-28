@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# :technologist: About Me
+
+# :computer: Projects and Contributions
+
+# Professional Development
+
+# What do I bring to the table?
+
 <!--
 **Matt-Willis-20/Matt-Willis-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
