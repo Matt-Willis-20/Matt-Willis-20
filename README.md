@@ -1,20 +1,23 @@
-# Hi, I'm Matt :wave::technologist:
+![banner](banner1.jpg)
 
 
+### Hi, I'm Matt :wave: 
 
+I'm a frontend web developer, currently living in Luton, UK.  
 
-Thanks for taking the time to check out my GitHub profile. 
-I am currenlty in 
-
-### :technologist: About Me
-Some text here
-- point 1
-- point 2
-- point 3
+### Where to find me:
 
 <div id="badge">
   <a href="https://www.linkedin.com/in/matt-willis-assoc-cipd-16b74b17/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://https://matt-willis-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/MY PORTFOLIO-orange?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/matt-willis-assoc-cipd-16b74b17/">
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
 
@@ -23,7 +26,7 @@ Some text here
 ### :computer: Projects and Contributions
 
 
-**Current Project: _Finsweet, a React App_**
+<br>**Current Project: _FINSWEET, A REACT APP_**
 
 <div id="finsweet-badges">
   <a href="https://matt-willis-finsweet.netlify.app">
@@ -36,12 +39,12 @@ Some text here
 </div>
 
 
-**JUUBIX GAME DEVELOPMENT**
+<br>**JUUBIX GAME DEVELOPMENT**
 
 A great example of how I have been able to use my transferable skills to refine the development of the company's gamification aspirations.
 
 
-**MY ELEC CHECK: An app to help keep monitor your electricity use in a time of ever-increasing living-costs**
+<br>**MY ELEC CHECK: An app to help keep monitor your electricity use in a time of ever-increasing living-costs**
 
 A new project, currently in development, to showcase my JavaScript knowledge.  This project has given me the opportunity to disucss and work through a full development cylce, from conceptualisation to final product.  I've proactively found a mentor to help guide me on the project, but has also provided the opportunutiy to collaboarate, experience code reviews and use fedback to improve my programming.
 
@@ -108,8 +111,6 @@ A new project, currently in development, to showcase my JavaScript knowledge.  T
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
