@@ -28,8 +28,7 @@ I'm a frontend web developer, currently living in Luton, UK.
 
 <br>:fire:**FINSWEET - A REACT APP**
 
-![finsweet](finsweet.png)
-
+![finsweet](finsweet1.png)
 
 
 In this project I have taken a Figma design, and brought it to life useing React :react:
