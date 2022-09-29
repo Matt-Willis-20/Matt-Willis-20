@@ -3,7 +3,7 @@
 
 ### Hi, I'm Matt :wave: 
 
-I'm a frontend web developer, currently living in Luton, UK.  
+I'm a frontend web developer, currently living in Luton, UK.  I love to solve problems, create great looking web pages and apps, and I have a relentless drive to be the best programmer I can! 
 
 ### Where to find me:
 
@@ -31,7 +31,7 @@ I'm a frontend web developer, currently living in Luton, UK.
 ![finsweet](finsweet1.png)
 
 
-In this project I have taken a Figma design, and brought it to life useing React :react:
+In this project I have taken a Figma design, and brought it to life useing React
 
 <div id="finsweet-badges">
   <a href="https://matt-willis-finsweet.netlify.app">
@@ -67,7 +67,7 @@ This new project, currently in development, showcases my JavaScript knowledge.  
 
 ----
 
-### My current techstack: 
+### CURRENT TECH STACK: 
 ###    
 <div>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
@@ -89,7 +89,7 @@ This new project, currently in development, showcases my JavaScript knowledge.  
     
 
 
-### What I'm currently learning/continuing to learn:
+### WHAT I'M CURRENTLY LEARNING/CONTINUING TO LEARN:
 ###   
 <div>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /> &nbsp;
@@ -101,7 +101,7 @@ This new project, currently in development, showcases my JavaScript knowledge.  
 
 <br>I'm aware of the need for continuous, life-long learning, and with that, acknowledge that I will need to continue developing a deeper understadning of JavaScript as I progress into a technical role. Along side this, I am building new projects to deepen my knowledge of React.  Althouhg my current focus is on FrontEnd Development, I want to progress with Node.js, mainly through a TDD approach.  With a love of design, I also want to become more familiar with Figma so that I am equipt to support the conceptualisation of future projects.
 
-### What's coming next:
+### WHAT'S COMNIG NEXT:
 
 <div>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" /> &nbsp;
@@ -110,18 +110,6 @@ This new project, currently in development, showcases my JavaScript knowledge.  
 
 ---
 
-### :scroll: Personal & Professional Development
-+[WORK IN PROGRESS]
+### LATEST BLOG POSTS
 
-<!--
-**Matt-Willis-20/Matt-Willis-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_[WORK IN PROGRESS]_
