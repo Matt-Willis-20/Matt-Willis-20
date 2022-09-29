@@ -23,10 +23,12 @@ I'm a frontend web developer, currently living in Luton, UK.
 
 ----
 
-### :computer: Projects and Contributions
+### PROJECTS AND CONTRIBUTIONS
 
 
-<br>**Current Project: _FINSWEET, A REACT APP_**
+<br>:fire:**FINSWEET - A REACT APP**
+
+In this project I have taken a Figma design, and brought it to life useing React :react:
 
 <div id="finsweet-badges">
   <a href="https://matt-willis-finsweet.netlify.app">
@@ -39,14 +41,16 @@ I'm a frontend web developer, currently living in Luton, UK.
 </div>
 
 
-<br>**JUUBIX GAME DEVELOPMENT**
+<br>:fire:**JUUBIX GAME DEVELOPMENT**
 
 A great example of how I have been able to use my transferable skills to refine the development of the company's gamification aspirations.
 
 
-<br>**MY ELEC CHECK: An app to help keep monitor your electricity use in a time of ever-increasing living-costs**
+<br>:fire:**MY ELEC CHECK**
 
-A new project, currently in development, to showcase my JavaScript knowledge.  This project has given me the opportunity to disucss and work through a full development cylce, from conceptualisation to final product.  I've proactively found a mentor to help guide me on the project, but has also provided the opportunutiy to collaboarate, experience code reviews and use fedback to improve my programming.
+_An app to help keep monitor your electricity use in a time of ever-increasing living-costs_
+
+This new project, currently in development, showcases my JavaScript knowledge.  Working on My ELEC CHECK has given me the opportunity to work through a full development cylce, from conceptualisation to final product.  I've proactively found a mentor to help guide me on the project, but has also provided the opportunutiy to collaboarate, experience code reviews and use fedback to improve my programming.
 
 <div id="my-elec-badges">
   <a href="#">
