@@ -9,7 +9,7 @@ I love to solve problems, create modern, user-centric web pages and apps, and I 
 
 Having worked in both the private and public sectors, I have a wealth of experience which I can leverage as a programmer: communication, teamwork, project management, process improvement, relationship-building, stakeholder management, and leadership. 
 
-If you would like to discuss job opportinuties, a new collaboration, my projects, or simply say hi and build your network, please reach out.
+If you would like to discuss job opportinuties, a new collaboration, my projects, or simply say hi, please reach out.
 
 
 ### Where to find me:
@@ -52,18 +52,19 @@ I've absolutely loved building _Finsweet_, taking a Figma design file and bringi
   </a>
 </div>
 
+##     
+<br>:fire:**JUUBIX COLLABORATION**
 
-<br><br>:fire:**JUUBIX GAME DEVELOPMENT**
+<img src="juubixlogo.png" alt="Juubix Logo" style="width: 150px">
+I've had the pleasure of working with a group of developers, alongside the company CEO, to create and develop a new product to support the company's main proposition. Although not leading the project, I've been able to used my transferable skills to help refine the development process and define the desired outcomes of the project.
 
-<img src="#" alt="Juubix Logo" style="width: 200px">
-A great example of how I have been able to use my transferable skills to refine the development of the company's gamification aspirations.
-
+##   
 
 <br>:fire:**MY ELEC CHECK**
 
-_An app to help keep monitor your electricity use in a time of ever-increasing living-costs_
+**_An app to help keep monitor your electricity use in a time of ever-increasing living-costs_**
 
-This new project, currently in development, showcases my JavaScript knowledge.  Working on My ELEC CHECK has given me the opportunity to work through a full development cylce, from conceptualisation to final product.  I've proactively found a mentor to help guide me on the project, but has also provided the opportunutiy to collaboarate, experience code reviews and use fedback to improve my programming.
+This new project, currently work-in-progress, showcases my JavaScript knowledge.  Working on _My ELEC CHECK_ has given me the opportunity to work through a full development cylce, from conceptualisation to final product creation and deployment.  Working with an experienced developer, this project has provided the opportunutiy to collaboarate, partake in code reviews and use feedback to improve my programming.
 
 <div id="my-elec-badges">
   <a href="#">
