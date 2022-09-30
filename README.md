@@ -55,6 +55,7 @@ I've absolutely loved building _Finsweet_, taking a Figma design file and bringi
 
 <br><br>:fire:**JUUBIX GAME DEVELOPMENT**
 
+<img src="/juubixlogo.png" alt="Juubix Logo" style="width: 200px">
 A great example of how I have been able to use my transferable skills to refine the development of the company's gamification aspirations.
 
 
