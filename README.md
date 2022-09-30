@@ -40,7 +40,7 @@ If you would like to discuss job opportinuties, a new collaboration, my projects
 
 My first solo React Project! 
 
-I've absolutely loved building _Finsweet_, taking a Figma design file and bringing it to life.  It is an evolving piece of work and with the guidance of a fantastic mentor, I continue to explore new functionality and expand the scope of the project.
+I've absolutely loved building _Finsweet_, taking a Figma design file and bringing it to life.  This is an evolving piece of work and with the guidance of a fantastic mentor, I continue to explore new functionality and expand the scope of the project.
 
 <div id="finsweet-badges">
   <a href="https://matt-willis-finsweet.netlify.app">
@@ -64,6 +64,8 @@ I've had the pleasure of working with a group of developers, alongside the compa
 
 **_An app to help keep monitor your electricity use in a time of ever-increasing living-costs_**
 
+<img src="eleccheck.png" alt="app wireframe" style="width: 400px">
+
 This new project, currently work-in-progress, showcases my JavaScript knowledge.  Working on _My ELEC CHECK_ has given me the opportunity to work through a full development cylce, from conceptualisation to final product creation and deployment.  Working with an experienced developer, this project has provided the opportunutiy to collaboarate, partake in code reviews and use feedback to improve my programming.
 
 <div id="my-elec-badges">
@@ -78,8 +80,8 @@ This new project, currently work-in-progress, showcases my JavaScript knowledge.
 
 ----
 
-### CURRENT TECH STACK: 
-###    
+### CURRENT TECH STACK:
+###   
 <div>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /> &nbsp;
@@ -95,11 +97,9 @@ This new project, currently work-in-progress, showcases my JavaScript knowledge.
   </div>
   
 
-<br>I have strong knowledge of HTML, CSS and JavaScript.  With the growing number of projects that I have worked on, I have made a conscious effort to use and implement related libraries and framworks, such as Sass, Bootstrap, Material UI and React. 
+<br>I have strong knowledge of HTML, CSS and JavaScript, and with the growing number of projects that I am working on, I have made a conscious effort to use and implement related libraries and frameworks, such as Sass, Bootstrap, Material UI and React.
 
     
-
-
 ### WHAT I'M CURRENTLY LEARNING/CONTINUING TO LEARN:
 ###   
 <div>
@@ -110,7 +110,7 @@ This new project, currently work-in-progress, showcases my JavaScript knowledge.
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" />
 </div>  
 
-<br>I'm aware of the need for continuous, life-long learning, and with that, acknowledge that I will need to continue developing a deeper understadning of JavaScript as I progress into a technical role. Along side this, I am building new projects to deepen my knowledge of React.  Althouhg my current focus is on FrontEnd Development, I want to progress with Node.js, mainly through a TDD approach.  With a love of design, I also want to become more familiar with Figma so that I am equipt to support the conceptualisation of future projects.
+<br>Embracing the notion of life-long learning, I acknowledge that I need to continuously developing my progamming skills.  As such, I continue to dig deeper into the JavaScript language and ecosystem.  Along side this, I am building new projects to deepen my knowledge of React.  Although my current focus is on FrontEnd Development, I want to build a better understanding of backend technologies, but also expand my knowledge of software testing.  I'm also a keen designer, and so I want to become more familiar with Figma in order to better contribute to the conceptualisation and wireframing of future projects.
 
 ### WHAT'S COMNIG NEXT:
 
