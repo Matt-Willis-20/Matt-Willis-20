@@ -3,7 +3,14 @@
 
 ### Hi, I'm Matt :wave: 
 
-I'm a frontend web developer, currently living in Luton, UK.  I love to solve problems, create great looking web pages and apps, and I have a relentless drive to be the best programmer I can! 
+I'm a frontend web developer, currently living in Luton, UK.  
+
+I love to solve problems, create modern, user-centric web pages and apps, and I have a relentless drive to be the best programmer I can!
+
+Having worked in both the private and public sectors, I have a wealth of experience which I can leverage as a programmer: communication, teamwork, project management, process improvement, relationship-building, stakeholder management, and leadership. 
+
+If you would like to discuss job opportinuties, a new collaboration, my projects, or simply say hi and build your network, please reach out.
+
 
 ### Where to find me:
 
@@ -23,7 +30,7 @@ I'm a frontend web developer, currently living in Luton, UK.  I love to solve pr
 
 ----
 
-### PROJECTS AND CONTRIBUTIONS
+### RECENT PROJECTS AND CONTRIBUTIONS
 
 
 <br>:fire:**FINSWEET - A REACT APP**
@@ -31,7 +38,9 @@ I'm a frontend web developer, currently living in Luton, UK.  I love to solve pr
 ![finsweet](finsweet1.png)
 
 
-In this project I have taken a Figma design, and brought it to life useing React
+My first solo React Project! 
+
+I've absolutely loved building _Finsweet_, taking a Figma design file and bringing it to life.  It is an evolving piece of work and with the guidance of a fantastic mentor, I continue to explore new functionality and expand the scope of the project.
 
 <div id="finsweet-badges">
   <a href="https://matt-willis-finsweet.netlify.app">
@@ -44,7 +53,7 @@ In this project I have taken a Figma design, and brought it to life useing React
 </div>
 
 
-<br>:fire:**JUUBIX GAME DEVELOPMENT**
+<br><br>:fire:**JUUBIX GAME DEVELOPMENT**
 
 A great example of how I have been able to use my transferable skills to refine the development of the company's gamification aspirations.
 
