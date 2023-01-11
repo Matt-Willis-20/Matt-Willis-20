@@ -19,7 +19,7 @@ If you would like to discuss job opportinuties, a new collaboration, my projects
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a href="https://https://matt-willis-portfolio.netlify.app">
+  <a href="https://matt-willis-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/MY PORTFOLIO-orange?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
   </a>
   &nbsp;
