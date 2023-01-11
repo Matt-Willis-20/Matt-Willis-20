@@ -123,4 +123,6 @@ This new project, currently work-in-progress, showcases my `JavaScript` knowledg
 
 ### LATEST BLOG POSTS
 
+**My Parachute into Tech** - [READ HERE](https://mattwillis.dev/blog-page.html)
+
 _[WORK IN PROGRESS]_
