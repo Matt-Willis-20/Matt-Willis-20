@@ -32,6 +32,15 @@ If you would like to discuss job opportinuties, a new collaboration, my projects
 
 ### RECENT PROJECTS AND CONTRIBUTIONS
 
+<br>:fire:**WANDERLUST - BOOTCAMP CAPSTONE PROJECT**
+
+![Wanderlust](finsweet.png)
+
+This project was one of the final capstone projects within the HyperionDev Web Development Bootcamp.
+
+It is based around a passion of mine - travel!
+
+I have used HTML, CSS, Bootstrap and JavaScript to create a responsive, interactive, and (hopefully) engaging website. Session storage has been utilised to add and store comments and present 'saved' data to the user based on their actions. The user can 'like' images across the site and they are able to submit forms for an email subscription and to send a message, albeit, without full backend fucntionality.
 
 <br>:fire:**FINSWEET - A REACT APP**
 
