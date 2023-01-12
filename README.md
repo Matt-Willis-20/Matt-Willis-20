@@ -34,7 +34,7 @@ If you would like to discuss job opportinuties, a new collaboration, my projects
 
 <br>:fire:**WANDERLUST - BOOTCAMP CAPSTONE PROJECT**
 
-![Wanderlust](finsweet.png)
+![Wanderlust](finsweet1.png)
 
 This project was one of the final capstone projects within the HyperionDev Web Development Bootcamp.
 
@@ -78,26 +78,6 @@ I've absolutely loved building _Finsweet_, taking a `Figma` design file and brin
 
 <img src="juubixlogo.png" alt="Juubix Logo" style="width: 150px">
 I've had the pleasure of working with a group of developers, alongside the company CEO, to create and develop a new product to support the company's main proposition. Although not leading the project, I've been able to used my transferable skills to help refine the development process and define the desired outcomes of the project.
-
-##   
-
-<br>:fire:**MY ELEC CHECK**
-
-**_An app to help keep monitor your electricity use in a time of ever-increasing living-costs_**
-
-<img src="eleccheck.png" alt="app wireframe" style="width: 400px">
-
-This new project, currently work-in-progress, showcases my `JavaScript` knowledge.  Working on _My ELEC CHECK_ has given me the opportunity to work through a full development cylce, from conceptualisation to final product creation and deployment.  Working with an experienced developer, this project has provided the opportunutiy to collaboarate, partake in code reviews and use feedback to improve my programming.
-
-<div id="my-elec-badges">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live Site-green?style=for-the-badge&logo=netlify&logoColor=white" alt="My Elec Check Badge"/>
-  </a> 
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub Repo-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
 
 ----
 
