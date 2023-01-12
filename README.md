@@ -7,7 +7,9 @@ I'm a frontend web developer, currently living in Luton, UK.
 
 I love to solve problems, create modern, user-centric web pages and apps, and I have a relentless drive to be the best programmer I can!
 
-Having worked in both the private and public sectors, I have a wealth of experience which I can leverage as a programmer: communication, teamwork, project management, process improvement, relationship-building, stakeholder management, and leadership. 
+Having worked in both the private and public sectors, I have a wealth of experience which I can leverage as a programmer: communication, teamwork, project management, process improvement, relationship-building, stakeholder management, and leadership.
+
+Most recently, I enrolled on the HyperionDev Web Development Bootcamp (currently, 80% complete) - you can view my Bootcamp Portfolio [here](https://www.hyperiondev.com/portfolio/106308/)
 
 If you would like to discuss job opportinuties, a new collaboration, my projects, or simply say hi, please reach out.
 
