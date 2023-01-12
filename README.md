@@ -126,4 +126,4 @@ I've had the pleasure of working with a group of developers, alongside the compa
 
 **My Parachute into Tech** - [READ HERE](https://mattwillis.dev/blog-page.html)
 
-_[WORK IN PROGRESS]_
+_[NEW POSTS COMING SOON]_
