@@ -42,6 +42,16 @@ It is based around a passion of mine - travel!
 
 I have used HTML, CSS, Bootstrap and JavaScript to create a responsive, interactive, and (hopefully) engaging website. Session storage has been utilised to add and store comments and present 'saved' data to the user based on their actions. The user can 'like' images across the site and they are able to submit forms for an email subscription and to send a message, albeit, without full backend fucntionality.
 
+<div id="finsweet-badges">
+  <a href="https://matt-willis-wanderlust.netlify.app/">
+    <img src="https://img.shields.io/badge/Live Site-green?style=for-the-badge&logo=netlify&logoColor=white" alt="Finsweet Badge"/>
+  </a> 
+  &nbsp;
+  <a href="https://github.com/Matt-Willis-20/finalCapstone">
+    <img src="https://img.shields.io/badge/GitHub Repo-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
 <br>:fire:**FINSWEET - A REACT APP**
 
 ![finsweet](finsweet1.png)
