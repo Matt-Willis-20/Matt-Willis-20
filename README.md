@@ -36,7 +36,7 @@ If you would like to discuss job opportinuties, a new collaboration, my projects
 
 <br>:fire:**WANDERLUST - BOOTCAMP CAPSTONE PROJECT**
 
-![Wanderlust](finsweet1.png)
+![Wanderlust](wanderlust.jpg)
 
 This project was one of the final capstone projects within the HyperionDev Web Development Bootcamp.
 
